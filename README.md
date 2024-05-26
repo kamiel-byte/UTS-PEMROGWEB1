@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
     <!-- Nama   : Ayu Kamillah
         NIM : 230401020015
